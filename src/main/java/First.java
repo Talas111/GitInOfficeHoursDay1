@@ -5,6 +5,7 @@ public class First {
 
 
     /*
-   THIS is the  firt class of learning git with JAVA
+   THIS is the  first class of learning git with JAVA
+   fxmhgmg  bless you
      */
 }
